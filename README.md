@@ -1,0 +1,4 @@
+#House_Price_Prediction
+<p >
+  . This study identifies current research gaps in the Bangalore House Dataset and implements efficient techniques in data preprocessing, Exploratory Data Analysis, and feature engineering stages for the later establishment of regression models along with their optimization and comparison to select the best regression model for house price prediction. In this study, Lasso regression, Ridge regression, Kernel Ridge regression,  Elastic Net Regression, XGBoost regression, and LightGBM regression has been applied to construct the predictive model. Comparative analysis of these models is done using regression metrics and analytical charts before and after optimization. Through the comparison it is found that the best model for price prediction is LightGBM regression whose R-squared error, Mean Squared Error (MSE), Mean Absolute Error(MAE), and Root Mean Squared Error are found to be 0.8391, 0.0820, 0.2113 and 0.286356 respectively.
+</p>
